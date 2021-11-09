@@ -33,21 +33,18 @@
 - JavaScript
 
 ## Screenshots
-![Screenshot (44)](https://user-images.githubusercontent.com/92842316/140858910-2943faa1-888a-4f14-b88f-b4945abdf246.png)
 
+![2021-11-09 (1)](https://user-images.githubusercontent.com/92842316/140905661-59464c8c-ada3-4bce-8f36-a6fbb2e2b91c.png)
+![2021-11-09 (2)](https://user-images.githubusercontent.com/92842316/140905686-fe5159f2-79bc-44e2-b783-a12653e57d96.png)
 
- ![Screenshot (42)](https://user-images.githubusercontent.com/92842316/140858886-b140296d-d237-446f-bce5-77ebdc6b65d7.png)
-
-![Screenshot (41)](https://user-images.githubusercontent.com/92842316/140858870-af2ab606-dfd9-4db4-b74e-aa71706e9728.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/92842316/140905697-0ccf73ef-543b-4423-88cc-f1be160e2f3a.png)
 
  ## Admin Panel
 
-![Screenshot (45)](https://user-images.githubusercontent.com/92842316/140858927-7e706f7b-03da-4706-a989-ef33ff61bf5c.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/92842316/140905710-fc5d9c83-78d7-4991-89a8-0d8b1e0c5b38.png)
 
-![Screenshot (47)](https://user-images.githubusercontent.com/92842316/140858943-06d14289-4cea-4c48-85cb-f1789c568a74.png)
-
- ![Screenshot (48)](https://user-images.githubusercontent.com/92842316/140858956-5965068c-b490-4b25-ba12-cfaed32b5c68.png)
-
+![2021-11-09 (3)](https://user-images.githubusercontent.com/92842316/140905749-94d0960c-aca3-4200-97b8-8e7ab9aa035b.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/92842316/140905757-bdc7d578-3f46-445c-b545-034a41d7d67b.png)
 
 
 
