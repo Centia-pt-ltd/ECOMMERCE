@@ -32,12 +32,20 @@
 
 - JavaScript
 
+## Screenshots
+![Screenshot (44)](https://user-images.githubusercontent.com/92842316/140858910-2943faa1-888a-4f14-b88f-b4945abdf246.png)
 
- 
 
+ ![Screenshot (42)](https://user-images.githubusercontent.com/92842316/140858886-b140296d-d237-446f-bce5-77ebdc6b65d7.png)
 
+![Screenshot (41)](https://user-images.githubusercontent.com/92842316/140858870-af2ab606-dfd9-4db4-b74e-aa71706e9728.png)
 
- 
+![Screenshot (45)](https://user-images.githubusercontent.com/92842316/140858927-7e706f7b-03da-4706-a989-ef33ff61bf5c.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/92842316/140858943-06d14289-4cea-4c48-85cb-f1789c568a74.png)
+
+ ![Screenshot (48)](https://user-images.githubusercontent.com/92842316/140858956-5965068c-b490-4b25-ba12-cfaed32b5c68.png)
+
 
 
 
