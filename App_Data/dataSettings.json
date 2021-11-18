@@ -1,5 +1,0 @@
-﻿{
-  "DataConnectionString": "Data Source=103.20.215.14,1433;Initial Catalog=DBSKGCECOM;Integrated Security=False;Persist Security Info=False;User ID=ecomskgc;Password=ecomskgc@2021j#",
-  "DataProvider": "sqlserver",
-  "RawDataSettings": {}
-}
